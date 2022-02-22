@@ -64,4 +64,4 @@ This section will explain step by step how to setup environment.
 
 ## 3. Run Tests
 
-Kreirati testng.xml file.
+Use files provided on this repository in your IntelliJ project.
